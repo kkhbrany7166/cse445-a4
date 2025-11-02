@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <Hotel ID="H001">
+    <Name>Arizona Grand Resort</Name>
+    <Phone>602-438-9000</Phone>
+    <Address>
+      <Number>8000</Number>
+      <Street>S Arizona Grand Pkwy</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85044</Zip>
+      <NearestAirport>PHX</NearestAirport>
+    </Address>
+    <Rating>4.5</Rating>
+  </Hotel>
+
+  <Hotel ID="H002">
+    <Name>Tempe Mission Palms</Name>
+    <Phone>480-894-1400</Phone>
+    <Address>
+      <Number>60</Number>
+      <Street>E 5th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>PHX</NearestAirport>
+    </Address>
+    <Rating>4.4</Rating>
+  </Hotel>
+
+  <Hotel ID="H003">
+    <Name>Hyatt Place Tempe</Name>
+    <Phone>480-804-9544</Phone>
+    <Address>
+      <Number>1413</Number>
+      <Street>W Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>PHX</NearestAirport>
+    </Address>
+    <Rating>4.1</Rating>
+  </Hotel>
+
+  <Hotel ID="H004">
+    <Name>AC Hotel Phoenix Tempe</Name>
+    <Phone>480-642-6140</Phone>
+    <Address>
+      <Number>100</Number>
+      <Street>E Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>PHX</NearestAirport>
+    </Address>
+    <Rating>4.2</Rating>
+  </Hotel>
+
+  <Hotel ID="H005">
+    <Name>Westin Tempe</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>480-968-0000</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>PHX</NearestAirport>
+    </Address>
+    <Rating>4.3</Rating>
+  </Hotel>
+
+  <Hotel ID="H006">
+    <Name>Graduate Tempe</Name>
+    <Phone>480-967-9431</Phone>
+    <Address>
+      <Number>225</Number>
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>PHX</NearestAirport>
+    </Address>
+    <Rating>4.0</Rating>
+  </Hotel>
+
+  <Hotel ID="H007">
+    <Name>Canopy by Hilton Tempe</Name>
+    <Phone>480-968-8888</Phone>
+    <Address>
+      <Number>108</Number>
+      <Street>E University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>PHX</NearestAirport>
+    </Address>
+    <Rating>4.4</Rating>
+  </Hotel>
+
+  <Hotel ID="H008">
+    <Name>Sheraton Phoenix Downtown</Name>
+    <Phone>602-262-2500</Phone>
+    <Address>
+      <Number>340</Number>
+      <Street>N 3rd St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+      <NearestAirport>PHX</NearestAirport>
+    </Address>
+    <Rating>4.2</Rating>
+  </Hotel>
+
+  <Hotel ID="H009">
+    <Name>Hyatt Regency Phoenix</Name>
+    <Phone>602-252-1234</Phone>
+    <Address>
+      <Number>122</Number>
+      <Street>N 2nd St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+      <NearestAirport>PHX</NearestAirport>
+    </Address>
+    <Rating>4.3</Rating>
+  </Hotel>
+
+  <Hotel ID="H010">
+    <Name>Cambria Hotel Phoenix</Name>
+    <Phone>602-675-3500</Phone>
+    <Address>
+      <Number>222</Number>
+      <Street>E Portland St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+      <NearestAirport>PHX</NearestAirport>
+    </Address>
+    <Rating>4.1</Rating>
+  </Hotel>
+</Hotels>

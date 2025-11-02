@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HotelList>
+  <Hotel>
+    <Name>Broken Example</Name>
+    <Address>
+      <Number>123</Number>
+      <Street>Main St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85001</Zip>
+      <NearestAirport>PHX</NearestAirport>
+    </Address>
+    <UnexpectedField>bad</UnexpectedField>
+  </Hotel>
+
+  <Hotel ID="H_DUP">
+    <Name>Broken Example</Name>
+    <Phone>480-000-0000</Phone>
+    <Phone>480-111-1111</Phone>
+    <Address>
+      <Number>456</Number>
+      <Street>Broadway</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>PHX</NearestAirport>
+    </Address>
+  </Hotel>
+</HotelList>
