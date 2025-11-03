@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Hotels>
-
   <Hotel ID="H001">
     <Phone>602-438-9000</Phone>
     <Name>Arizona Grand Resort</Name>
@@ -28,5 +27,4 @@
     </Address>
     <Rating>4.4</Rating>
   </Hotel>
-
 </Hotels>
