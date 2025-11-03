@@ -1,21 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
-  <!-- Root element <Hotels> -->
   <xs:element name="Hotels">
     <xs:complexType>
       <xs:sequence>
 
-        <!-- Repeating <Hotel> element -->
         <xs:element name="Hotel" maxOccurs="unbounded">
           <xs:complexType>
             <xs:sequence>
-
-              <!-- IMPORTANT: Phone comes BEFORE Name to match what Gradescope expects -->
               <xs:element name="Phone" type="xs:string" maxOccurs="unbounded"/>
               <xs:element name="Name" type="xs:string"/>
 
-              <!-- Address block -->
               <xs:element name="Address">
                 <xs:complexType>
                   <xs:sequence>
@@ -29,12 +24,8 @@
                 </xs:complexType>
               </xs:element>
 
-              <!-- Optional Rating -->
               <xs:element name="Rating" type="xs:decimal" minOccurs="0"/>
-
             </xs:sequence>
-
-            <!-- Hotel must have an ID attribute -->
             <xs:attribute name="ID" type="xs:string" use="required"/>
           </xs:complexType>
         </xs:element>
