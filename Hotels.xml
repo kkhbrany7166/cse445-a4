@@ -94,4 +94,45 @@
       <Number>108</Number>
       <Street>E University Dr</Street>
       <City>Tempe</City>
-      <State>AZ</Sta
+      <State>AZ</State>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.1">
+    <Phone>480-312-1700</Phone>
+    <Name>W Scottsdale</Name>
+    <Address zip="85251">
+      <Number>7277</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.8">
+    <Phone>602-956-6500</Phone>
+    <Name>Arizona Biltmore</Name>
+    <Address zip="85016">
+      <Number>2400</Number>
+      <Street>E Missouri Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.7">
+    <Phone>480-948-1700</Phone>
+    <Name>Hotel Valley Ho</Name>
+    <Address zip="85251">
+      <Number>6850</Number>
+      <Street>E Main St</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+</Hotels>
