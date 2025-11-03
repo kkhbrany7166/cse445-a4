@@ -6,7 +6,7 @@
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
     <Name>Westin Tempe</Name>
-    <Address Zip="85281">
+    <Address zip="85281">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -18,7 +18,7 @@
   <Hotel Rating="4.5">
     <Phone>602-252-1234</Phone>
     <Name>Hyatt Regency Phoenix</Name>
-    <Address Zip="85004">
+    <Address zip="85004">
       <Number>122</Number>
       <Street>N 2nd St</Street>
       <City>Phoenix</City>
@@ -30,7 +30,7 @@
   <Hotel Rating="4.0">
     <Phone>480-894-1400</Phone>
     <Name>Graduate Tempe</Name>
-    <Address Zip="85281">
+    <Address zip="85281">
       <Number>225</Number>
       <Street>E Apache Blvd</Street>
       <City>Tempe</City>
@@ -42,7 +42,7 @@
   <Hotel Rating="4.3">
     <Phone>602-340-0000</Phone>
     <Name>Hilton Garden Inn Phoenix Downtown</Name>
-    <Address Zip="85004">
+    <Address zip="85004">
       <Number>15</Number>
       <Street>E Monroe St</Street>
       <City>Phoenix</City>
@@ -54,7 +54,7 @@
   <Hotel Rating="4.4">
     <Phone>480-784-2233</Phone>
     <Name>Tempe Mission Palms</Name>
-    <Address Zip="85281">
+    <Address zip="85281">
       <Number>60</Number>
       <Street>E 5th St</Street>
       <City>Tempe</City>
@@ -66,7 +66,7 @@
   <Hotel Rating="4.5">
     <Phone>602-207-2000</Phone>
     <Name>Kimpton Hotel Palomar Phoenix</Name>
-    <Address Zip="85004">
+    <Address zip="85004">
       <Number>2</Number>
       <Street>E Jefferson St</Street>
       <City>Phoenix</City>
@@ -78,7 +78,7 @@
   <Hotel>
     <Phone>480-429-9000</Phone>
     <Name>Aloft Scottsdale</Name>
-    <Address Zip="85251">
+    <Address zip="85251">
       <Number>4415</Number>
       <Street>N Civic Center Plaza</Street>
       <City>Scottsdale</City>
@@ -90,49 +90,8 @@
   <Hotel Rating="4.6">
     <Phone>480-293-5000</Phone>
     <Name>Canopy by Hilton Tempe Downtown</Name>
-    <Address Zip="85281">
+    <Address zip="85281">
       <Number>108</Number>
       <Street>E University Dr</Street>
       <City>Tempe</City>
-      <State>AZ</State>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.1">
-    <Phone>480-312-1700</Phone>
-    <Name>W Scottsdale</Name>
-    <Address Zip="85251">
-      <Number>7277</Number>
-      <Street>E Camelback Rd</Street>
-      <City>Scottsdale</City>
-      <State>AZ</State>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.8">
-    <Phone>602-956-6500</Phone>
-    <Name>Arizona Biltmore</Name>
-    <Address Zip="85016">
-      <Number>2400</Number>
-      <Street>E Missouri Ave</Street>
-      <City>Phoenix</City>
-      <State>AZ</State>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.7">
-    <Phone>480-948-1700</Phone>
-    <Name>Hotel Valley Ho</Name>
-    <Address Zip="85251">
-      <Number>6850</Number>
-      <Street>E Main St</Street>
-      <City>Scottsdale</City>
-      <State>AZ</State>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-</Hotels>
+      <State>AZ</Sta
