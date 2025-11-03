@@ -26,11 +26,12 @@
       <NearestAirport>None</NearestAirport>
 
     <!--
-      Errors in this second hotel:
-      - No <Phone> at all (Phone is required by schema)
-      - Address has no Zip attribute even though Zip is required
-      - Address tag never closed
-      - Duplicate Name elements
+      Errors on purpose:
+      - Root element is <Hotel> instead of <Hotels>
+      - This second Hotel has NO <Phone> at all (Phone is required by schema)
+      - Address is missing required Zip="..."
+      - Address never closes
+      - Duplicate <Name> elements
     -->
   </Hotel>
 
